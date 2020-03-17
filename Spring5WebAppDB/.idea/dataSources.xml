@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="phpMyAdmin" uuid="9b7fc58d-c73b-43de-99ee-ffee2e4dcf9d">
+      <driver-ref>mysql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>spring
+
+D:/Documents/Sumati/My Learning/Spring/Spring5Workspace/Spring5WebAppDB/src/main/webapp/WEB-INF/applicationContext.xml</remarks>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1:3306/spring5webappdb</jdbc-url>
+    </data-source>
+  </component>
+</project>
